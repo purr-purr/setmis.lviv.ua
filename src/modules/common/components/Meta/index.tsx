@@ -26,7 +26,7 @@ const Meta: FC<{
 			<meta name="viewport" content="width=device-width, initial-scale=1" />
 			<link href={FAVICON.src} rel="icon" />
 			<meta content="width=device-width, initial-scale=1" name="viewport" />
-			<meta content="#222" name="theme-color" />
+			<meta content="#F4F4F4" name="theme-color" />
 			<meta content={metaTitle} name="description" />
 			<link href={FAVICON.src} rel="apple-touch-icon" />
 			<link href={manifestPath} rel="manifest" />
