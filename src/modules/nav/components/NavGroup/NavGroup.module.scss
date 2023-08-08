@@ -52,6 +52,7 @@
   min-width: 195px;
   border: 1px solid var(--dark);
   border-top: none;
+  background-color: var(--white);
 
   @include media-mobile {
     position: unset;
