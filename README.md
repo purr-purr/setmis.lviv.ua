@@ -1,8 +1,8 @@
-# TentLait website
+# SetMis website
 
 #### `JavaScript / ReactJS / TypeScript / NextJS`
 
-# [https://tenlait.lviv.ua/](https://tenlait.lviv.ua/)
+# [https://setmis.lviv.ua/](https://setmis.lviv.ua/)
 
 ## Getting Started
 
