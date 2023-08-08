@@ -1,0 +1,36 @@
+.container {
+  margin-bottom: 64px;
+
+  @include media-mobile {
+    margin-bottom: 30px;
+  }
+
+  li {
+    width: fit-content;
+    margin-bottom: 24px;
+
+    @include media-mobile {
+      margin-bottom: 15px;
+    }
+  }
+
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.typeDoc {
+  list-style-type: none;
+
+  a {
+    @include flex-align(center);
+    gap: 8px;
+  }
+}
+
+.typeLink {
+  padding-left: 20px;
+  list-style-type: square;
+}
