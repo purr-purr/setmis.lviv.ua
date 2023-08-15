@@ -5,7 +5,7 @@ export const APP_AUTHOR_WEBSITE: string = `https://${APP_AUTHOR_SIGNATURE}/`;
 export const APP_AUTHOR_FULL_SIGNATURE: string = `${APP_AUTHOR} => ${APP_AUTHOR_WEBSITE} => shaposhnikov.web@gmail.com`;
 export const APP_LINK: string = 'https://setmis.lviv.ua/';
 export const COMPANY_NAME: string = 'ТОВ “СЕТМІС”';
-export const COMPANY_EDRPOU: string = 'код ЄДРПОУ 3722701593';
+export const COMPANY_EDRPOU: string = 'код ЄДРПОУ 45095223';
 export const COMPANY_PHONE: string = '+380668775436';
 export const COMPANY_EMAIL: string = 'setmis.tov@gmail.com';
 export const COMPANY_SCHEDULE: string =

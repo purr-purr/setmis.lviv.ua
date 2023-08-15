@@ -31,11 +31,11 @@ export const electricityContracts: IDocsList[] = [
 	{
 		title: 'Заява-приєднання',
 		path:
-			'publichnyj_dogovir_pro_postachannya_elektrychnoyi_energiyi_spozhyvachu.doc',
+			'заява_приєднання.docx',
 	},
 	{
 		title: 'Публічний договір про постачання',
-		path: 'zayava_pryyednannya_EE-Upsilum.doc',
+		path: 'Публічний_договір.docx',
 	},
 ];
 
@@ -134,18 +134,18 @@ export const otherDocs = [
 export const gasContracts = [
 	{
 		title: 'АНКЕТА-контрагента',
-		path: 'АНКЕТА-контрагента.docx',
+		path: 'Анкета_контаганта.docx',
 	},
 	{
 		title: 'Договір постачання газу',
-		path: 'Договір_постачання_газу_Апсилум_Трайдинг.docx',
+		path: 'Договір_постачання_газу_Сетмис.docx',
 	},
 ];
 
 export const gasDisputeResolution = [
 	{
 		title: 'Врегулювання спрорів',
-		path: 'Врегулювання-спрорів.docx',
+		path: 'Врегулування_спорів_газ.docx',
 	},
 ];
 
