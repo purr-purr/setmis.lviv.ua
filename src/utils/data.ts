@@ -144,8 +144,8 @@ export const gasContracts = [
 
 export const gasDisputeResolution = [
 	{
-		title: 'Врегулювання спрорів',
-		path: 'Врегулування_спорів_газ.docx',
+		title: 'Врегулювання спорів',
+		path: 'Врегулювання_спорів_газ.docx',
 	},
 ];
 
